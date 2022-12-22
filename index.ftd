@@ -1,57 +1,88 @@
--- import: gargajit.github.io/ftd-gargajit/assets
+-- ftd.color bg:
+light: #eee
+dark: blue
 
 
 
--- ds.page: Welcome to your [FPM site](https://fpm.dev/)
+-- ftd.column: 
+padding-vertical.px: 100
+spacing.px: 30
+border-width.px: 0
+horizontal-resizing: ftd.resizing.fill-container
+vertical-resizing: ftd.resizing.fill-container
+background.solid: $bg
+align-content: ftd.align.top-center
 
-FPM Blank Package Template Repo
+-- ftd.text: FTD and FPM
 
-🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
+-- box: 
+title: "Programming Language For Prose" - This is a header title
 
-
---- ds.image: doc-site
-src: $assets.files.doc-site-example.png
-width: fill
-
-
---- ds.h1: 🚀 Project Structure
-
-Inside of your FPM project, you'll see the following folders and files:
-
-
---- ds.code:
-lang:
-
-/
-├── .build/
-│   └── index.html
-├── .packages/
-│   └── fifthtry.github.io/
-│   	└── All downloaded dependencies
-│   	
-├── FPM.ftd
-├── index.ftd
-└── README.md
+FTD is an open source programming language for writing prose
 
 
+-- box: "FTD Language" - This is passed as a Caption
 
---- ds.h1: 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
---- ds.code:
-lang:
-
-=======================================================================
-| Command                | Action                                     |
-| :--------------------- | :----------------------------------------- |
-| fpm build              | FPM builder installs all `FPM` dependencies|
-| fpm serve              | Starts local dev server at available port  |
-|                        | `localhost:8000`                           |
-=======================================================================
+Here is a FTD document that is importing a library, lib, and has a heading of level 1, "Hello World".
+FTD language is designed for human beings, not just programmers, we have taken precautions like not 
+requiring quoting for strings, not relying on indentation nor on braces that most programming languages require.
+It is not verbose like HTML, and not simplistic like Markdown.
 
 
---- ds.h1: 👀 Want to learn more?
+-- box:
 
-Feel free to check [our documentation](https://fpm.dev/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- box.title: 
 
+I used "box.title" inside the box and this supports
+Multiline title.
+
+-- box.body:
+
+Similarly i used "box.body" to write the body part
+
+
+-- end: ftd.column
+
+
+-- component box:
+caption title: Heading
+body info:
+boolean $open: false
+
+-- ftd.column:
+border-width.px: 4
+horizontal-resizing.fixed.percent: 55
+
+-- ftd.row:
+border-width.px: 1
+padding.px: 10
+horizontal-resizing: ftd.resizing.fill-container
+spacing-mode: ftd.spacing-mode.space-between
+;; border-radius.px: 4
+$on-click$: $toggle($value=$box.open)
+
+-- ftd.text: $box.title
+
+-- ftd.text: X
+if: { $box.open }
+
+-- ftd.text: O
+if: { !box.open }
+
+-- end: ftd.row
+
+-- ftd.text:
+if: { $box.open }
+padding.px: 10
+
+
+$box.info
+
+-- end: ftd.column
+
+-- end: box
+
+-- void toggle(value):
+boolean $value:
+
+value = !value;

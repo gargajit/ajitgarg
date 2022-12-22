@@ -1,0 +1,92 @@
+-- import: dropdown
+
+
+-- ftd.column:
+horizontal-resizing: ftd.resizing.fill-container
+
+
+-- header: 
+
+-- body:
+
+
+-- end: ftd.column
+
+-- component header:
+
+-- ftd.row:
+horizontal-resizing: ftd.resizing.fill-container
+spacing-mode: ftd.spacing-mode.space-between
+border-bottom-width.px: 1
+
+
+-- ftd.text: FIFTHTRY
+padding.px: 14
+
+-- side-header:
+
+
+
+-- end: ftd.row
+
+-- end: header
+
+-- component side-header:
+
+-- ftd.row:
+border-left-width.px: 1
+horizontal-resizing: ftd.resizing.hug-content
+padding.px: 14
+
+-- ftd.text: Home
+
+
+-- end: ftd.row
+
+-- end: side-header
+
+-- component body: 
+
+-- ftd.column:
+horizontal-resizing: ftd.resizing.fill-container
+
+-- ftd.text: FTD Project: Drop Down
+padding.px: 20
+
+-- boxes:
+
+
+-- end: ftd.column
+
+-- end: body
+
+
+
+
+
+
+
+
+
+-- component boxes:
+
+-- ftd.column:
+horizontal-resizing: ftd.resizing.fill-container
+align-content: ftd.align.top-center
+spacing.px: 40
+
+
+-- dropdown.box: Ajit
+
+First box
+
+
+-- dropdown.box: Garg
+
+2nd box
+
+
+
+-- end: ftd.column
+
+-- end: boxes

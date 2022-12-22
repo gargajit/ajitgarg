@@ -1,8 +1,4 @@
 -- import: fpm
 
--- fpm.package: gargajit.github.io/ftd-gargajit
-download-base-url: https://raw.githubusercontent.com/gargajit/ftd-gargajit/main
+-- fpm.package: dropdown
 
--- fpm.dependency: fifthtry.github.io/doc-site as ds
-
--- fpm.auto-import: ds
