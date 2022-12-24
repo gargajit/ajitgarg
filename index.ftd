@@ -13,7 +13,6 @@ vertical-resizing: ftd.resizing.fill-container
 background.solid: $bg
 align-content: ftd.align.top-center
 
--- ftd.text: FTD and FPM
 
 -- box: 
 title: "Programming Language For Prose" - This is a header title
