@@ -1,11 +1,12 @@
 -- ds.author-meta ajit: Ajit Garg
 profile:  DevRel
-image: $assets.files.img.ajit.jpg
+image: $assets.files.images.ajit.png
 bio-url: index.html
 company: FifthTry.Pvt.Ltd
 
+I am Garg...Ajit Garg.
 
--- my-ds.page:
+-- my-ds.page: Ajit's Story
 
 I started my IT career through traditional Job-Market approach but I saw myself in the environment where the whole career is dependent on clocking in and out, 
 working on a part of project, with the target of getting those yearly increments and promotions with developing skills what the project or the company requires. 
@@ -17,6 +18,7 @@ or there can be more exciting way in this industry.
 That's when I decided to leave the job market career growth and start working on something that fulfills me. I figured out creating something of your own is more 
 satisfying than contributing a small part of a project in a company. I was introduced to the Referral Market, where people want to take you and invest on you 
 based on your proven record ability to create new things as a whole. 
+
 
 
 -- ds.author-bio:
