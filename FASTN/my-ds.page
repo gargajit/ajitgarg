@@ -15,7 +15,7 @@ boolean sidebar: false
 optional boolean widthfill: false
 
 -- ds.page:
-;;site-logo: $fastn-assets.files.images.fastn.svg
+site-logo: $fastn-assets.files.images.logo.svg
 title: $page.title
 body: $page.body
 wrapper: $page.wrapper
