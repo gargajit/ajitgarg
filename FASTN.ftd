@@ -12,3 +12,6 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.auto-import: ajitgarg.com/config/my-ds as my-ds
 -- fastn.auto-import: fastn
 -- fastn.auto-import: ajitgarg.com/assets
+
+
+;; add a new entry
