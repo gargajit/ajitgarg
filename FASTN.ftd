@@ -6,12 +6,14 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/winter-cs
 -- fastn.dependency: fifthtry.github.io/fastn-typography
+-- fastn.dependency: fifthtry.github.io/bling as bling
 
 
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
 -- fastn.auto-import: ajitgarg.com/config/my-ds as my-ds
 -- fastn.auto-import: fastn
 -- fastn.auto-import: ajitgarg.com/assets
+-- fastn.auto-import: bling/quote as quote
 
 
 -- fastn.sitemap:
@@ -20,4 +22,4 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 # Blog: /my-journey/
 
-- How did I got the job at FifthTry: /my-journey/first-blog
+- How did I got the job at FifthTry: /my-journey/first-blog.ftd
