@@ -14,4 +14,10 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.auto-import: ajitgarg.com/assets
 
 
-;; add a new entry
+-- fastn.sitemap:
+
+# Home: /index.html
+
+# Blog: /my-journey/
+
+- How did I got the job at FifthTry: /my-journey/first-blog
