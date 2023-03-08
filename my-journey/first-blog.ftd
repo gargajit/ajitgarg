@@ -1,12 +1,12 @@
 -- my-ds.page:  How did I get a job at FifthTry
 
-Small initiatives can bring significant career changes. This line is accurate in my case. I was seeking a job but not an ordinary job
-in a job market via some resume. I wanted to build an exciting career where I find value in learning and growth.
+Small initiatives can bring significant career changes. This line is accurate in my case. I was seeking a job but not an ordinary 
+job by taking the job-market approach. I wanted to build an exciting career where I find value in learning and growth.
 
 In this post I will take you on a journey on how you can start from scratch and how seeking out can offer you some exciting career
 path. 
 
--- marengo: Steve Jobs
+-- quote.marengo: Steve Jobs
 
 Never settle for average.
 
@@ -15,11 +15,11 @@ Never settle for average.
 Hello, my name is Ajit Garg. I am a DevRel - Intern at FifthTry Pvt. Ltd. I joined this company in the last week of December 2022.
 
 
-I had no prior project or work experience in the role of DevRel. I completed my Bachelor's in Computer Science in 2015. I got
-campus-placed in Accenture Solutions Pvt Ltd. About 2 years from that, I decided to appear for entrance tests for the Civil Services
-exams, but things did not turn out as planned and I had to restart from the beginning but this time with more determination and 
-with a different approach. I had a hunger for learning in me and with my previous experience in job-market, I seek for 
-something fresh and much more exciting, to be a part of the story of a startup.
+I had no prior project or work experience in the role of `DevRel`. I completed my Bachelor's in Computer Science in 2015. I got
+campus-placed in Accenture Solutions Pvt Ltd. About 2 years from that, I decided to appear for entrance tests for the Civil 
+Services exams, but things did not turn out as planned and I had to restart from the beginning but this time with more 
+determination and with a different approach. I had a hunger for learning in me and with my previous experience in job-market, 
+I seek for something fresh and much more exciting, to be a part of the story of a startup.
 
 -- ds.h1: Why a startup
 
@@ -32,20 +32,32 @@ and skills I gained working on projects I could get the opportunity to work in.
 
 -- ds.h1: Joining FifthTry
 
-I was clear in my mind that I want to work for a startup that will not only help me with heights and depth of skills on the 
+It was clear in my mind that I want to work for a startup that will not only help me with heights and depth of skills on the 
 project but also can give me the opportunities to put out my suggestions and be a part of open discussions. Probably like others,
-I started my search for startups in cities like, Bangalore, Hyderabad, Chennai.
+I started my search for startups in cities like Bangalore, Hyderabad, and Chennai.
 
-I came across this startup, FifthTry, that looked different and at that point they had the product which I will talk about in a second.
-Their team was actively imporving their product and their documentation was raw but they used their product to put out their
-documentation. 
+As I was exploring various startups, I stumbled upon FifthTry. Their product intrigued me, and I became curious about the company 
+as a whole. What impressed me was that the team was consistently making improvements to their product. Although their 
+documentation was somewhat unpolished, I was impressed that they had the confidence to make it available to the public using 
+their own product.
 
-Team at FifthTry has taken upon the responsibility to build a new front-end language for the next billion programmers. But the things
-that excited me was this line.
+The team at `FifthTry` has taken upon the responsibility to build a new front-end programming language, FTD. FTD is for the next 
+billion programmers. The thing that excited me was this line in the documentation:
+
+-- quote.marengo: FifthTry
+
+Our language is specifically designed for human beings, not just programmers.
+
+-- ds.markdown:
+
+I started looking up the documentation on how can I learn this language. Apart from the written documentation, I could not
+find any training or learning course that can help me go through step by step and understand how to create a website using `FTD`.
 
 
+I took the initiative and tried to follow the written documentation and created `Hello World`. I recorded myself using zoom and
+reached out to the CEO of FifthTry and shared the video. He liked the video and I suggested to him that he needs someone to create 
+such video course and I would love to learn the language and create something for the company. He took the suggestion positively and 
+offered me a role as DevRel. I am still an intern but I am progressing in my career and I love the role I am in.
 
-development and
-improving but they had little 
 
 -- end: my-ds.page
