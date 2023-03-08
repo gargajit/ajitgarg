@@ -1,6 +1,15 @@
 -- my-ds.page:  How did I get a job at FifthTry
 
-Small initiatives can bring significant career changes. This line is accurate in my case. I was seeking a job but not an ordinary 
+-- ds.image:
+src: $assets.files.images.get-that-job.jpg
+
+-- quote.stormcloud: Some Legend
+
+"Small initiatives can bring significant career change."
+
+-- ds.markdown:
+
+This line is accurate in my case. I was seeking a job but not an ordinary 
 job by taking the job-market approach. I wanted to build an exciting career where I find value in learning and growth.
 
 In this post I will take you on a journey on how you can start from scratch and how seeking out can offer you some exciting career
@@ -29,6 +38,9 @@ approach either, which millions follow. It does help in the short term and I had
 career of around 2 years.
 In my opinion, in the long run, the learning curve is a flat line. I would be just another fish in the ocean, surviving on fortunes 
 and skills I gained working on projects I could get the opportunity to work in.
+
+-- ds.image:
+src: $assets.files.images.initiative.jpg
 
 -- ds.h1: Joining FifthTry
 
