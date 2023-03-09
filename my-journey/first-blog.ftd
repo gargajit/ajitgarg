@@ -1,60 +1,62 @@
 -- my-ds.page:  How did I get a job at FifthTry
 
--- ds.image:
+/-- ds.image:
 src: $assets.files.images.get-that-job.jpg
 
--- quote.stormcloud: Some Legend
-
-"Small initiatives can bring significant career change."
 
 -- ds.markdown:
 
-This line is accurate in my case. I was seeking a job but not an ordinary 
-job by taking the job-market approach. I wanted to build an exciting career where I find value in learning and growth.
+The saying "small initiatives can bring significant career changes" rings true for my own journey. Rather than taking the 
+traditional job-market approach, I was looking for a job that would offer me more than just a paycheck. I wanted to build a 
+fulfilling career that would provide opportunities for growth and learning. In this post, I will share my story of starting 
+from scratch and how seeking out unique opportunities led me to an exciting career path.
 
-In this post I will take you on a journey on how you can start from scratch and how seeking out can offer you some exciting career
-path. 
+-- quote.stormcloud: Steve Jobs
 
--- quote.marengo: Steve Jobs
-
-Never settle for average.
+"Never settle for average."
 
 -- ds.h1: About me
 
-Hello, my name is Ajit Garg. I am a DevRel - Intern at FifthTry Pvt. Ltd. I joined this company in the last week of December 2022.
+My name is Ajit Garg, and I currently work as a DevRel Intern at FifthTry Pvt. Ltd, which I joined in the final week of 
+December 2022.
 
-
-I had no prior project or work experience in the role of `DevRel`. I completed my Bachelor's in Computer Science in 2015. I got
-campus-placed in Accenture Solutions Pvt Ltd. About 2 years from that, I decided to appear for entrance tests for the Civil 
-Services exams, but things did not turn out as planned and I had to restart from the beginning but this time with more 
-determination and with a different approach. I had a hunger for learning in me and with my previous experience in job-market, 
-I seek for something fresh and much more exciting, to be a part of the story of a startup.
+Prior to this role, I had no experience working on projects or in the DevRel role. I completed my Bachelor's degree in 
+Computer Science in 2015 and secured a campus placement at Accenture Solutions Pvt Ltd as a Software Test Engineer. 
+However, two years later, I decided to pursue a career in Civil Services exams, but things didn't go as planned, and 
+I had to start from scratch again. 
+This setback only strengthened my determination to seek out new learning opportunities and explore exciting career options. 
+This time I sought to join a startup to be a part of an innovative journey.
 
 -- ds.h1: Why a startup
 
-With my previous experience, I was not a big fan of job-market or an MNC. MNC has its own perks and benefits as it gives security 
-but at the expense of limited learning or limited say in the project discussions. I do not take away any points of the job-market 
-approach either, which millions follow. It does help in the short term and I had a great experience with three projects in a short
-career of around 2 years.
-In my opinion, in the long run, the learning curve is a flat line. I would be just another fish in the ocean, surviving on fortunes 
-and skills I gained working on projects I could get the opportunity to work in.
+Based on my past experience, I was not particularly fond of working for an MNC. While there are benefits to working for an MNC 
+such as job security, there is often limited learning opportunities and little input in project discussions. I don't discount 
+the millions of people who follow the job-market approach as it can provide valuable experience in the short term. 
+I had a great experience with three projects in my short career of around 2 years working in an MNC.
+
+However, I believe that in the long run, the learning curve in such positions can become stagnant. I would merely be one among 
+many, surviving on the fortunes and skills gained from the limited range of projects I was fortunate enough to work on. 
+As a result, I sought a fresh and exciting career path with the potential for growth and development.
 
 -- ds.image:
 src: $assets.files.images.initiative.jpg
 
 -- ds.h1: Joining FifthTry
 
-It was clear in my mind that I want to work for a startup that will not only help me with heights and depth of skills on the 
-project but also can give me the opportunities to put out my suggestions and be a part of open discussions. Probably like others,
-I started my search for startups in cities like Bangalore, Hyderabad, and Chennai.
+From the very beginning, I knew I wanted to work for a startup that could provide me with both a deep and broad learning 
+experience on projects, while also allowing me to offer my suggestions and participate in open discussions. My search 
+for startups initially led me to explore opportunities in cities like Bangalore, Hyderabad, and Chennai.
 
-As I was exploring various startups, I stumbled upon FifthTry. Their product intrigued me, and I became curious about the company 
-as a whole. What impressed me was that the team was consistently making improvements to their product. Although their 
-documentation was somewhat unpolished, I was impressed that they had the confidence to make it available to the public using 
-their own product.
+During my search, I came across `FifthTry`, and their product immediately caught my attention. I was curious about the 
+company as a whole, and what impressed me most was their commitment to continuously improving their product. While their 
+documentation may have been rough around the edges, I was impressed that they had the confidence to make it publicly 
+available using their own product.
 
-The team at `FifthTry` has taken upon the responsibility to build a new front-end programming language, FTD. FTD is for the next 
-billion programmers. The thing that excited me was this line in the documentation:
+What really excited me about FifthTry was their team's ambitious goal of developing a new front-end programming language, FTD, 
+for the next generation of programmers. I knew this was an opportunity I couldn't pass up. And so, in the last week of 
+December 2022, I joined FifthTry as a DevRel Intern. Although I had no prior experience in this specific role, I was always 
+fascinated and was eager to jump in and begin contributing to the team's mission. 
+One statement that particularly grabbed my attention in the documentation was:
 
 -- quote.marengo: FifthTry
 
@@ -62,13 +64,16 @@ Our language is specifically designed for human beings, not just programmers.
 
 -- ds.markdown:
 
-I started looking up the documentation on how can I learn this language. Apart from the written documentation, I could not
-find any training or learning course that can help me go through step by step and understand how to create a website using `FTD`.
+After exploring the documentation on FTD, I found that there were no structured learning courses available to help me 
+learn the language beyond the written documentation.
 
+I took the initiative and used the available resources to create a "Hello World" program. 
+I recorded myself doing this and reached out to the CEO of FifthTry to share my progress. 
+He was impressed with the video and I suggested that the company could benefit from having a video course to help others 
+learn the language. He was receptive to my suggestion and offered me the role of DevRel to help create the course and promote 
+the language to a wider audience. 
 
-I took the initiative and tried to follow the written documentation and created `Hello World`. I recorded myself using zoom and
-reached out to the CEO of FifthTry and shared the video. He liked the video and I suggested to him that he needs someone to create 
-such video course and I would love to learn the language and create something for the company. He took the suggestion positively and 
-offered me a role as DevRel. I am still an intern but I am progressing in my career and I love the role I am in.
+As an intern, I am still learning and growing in my role, but I am passionate about the 
+work I am doing and excited to be part of such an innovative company.
 
 -- end: my-ds.page
