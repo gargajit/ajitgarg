@@ -20,10 +20,13 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 # Home: /
 
-# Blog: /my-journey/first-blog/
+# Blog: /blogs/my-journey/first-blog/
 
 ## My Journey: /my-journey/first-blog/
+document: /blogs/my-journey/first-blog/
 
 - How did I got the job at FifthTry: /my-journey/first-blog/
+document: /blogs/my-journey/first-blog/
+- My journey to become a DevRel: /blogs/my-journey/second-blog/
 
-- My journey to become a DevRel: /my-journey/second-blog/
+## DevRel: /blogs/devrel/
