@@ -1,43 +1,30 @@
--- my-ds.page:  How did I get a job at FifthTry
+-- my-ds.page:  What happened when I failed to clear Civil Services exams
 
--- ds.image:
+/-- ds.image:
 src: $assets.files.images.get-that-job.jpg
 
 
+-- ds.h1: Overview
+
+I decided to pursue a career in Civil Services exams leaving a job, but things didn't go as planned, and I had to start from scratch again.
+This setback only strengthened my determination to seek out new learning opportunities and explore other exciting career options. 
+
+-- quote.storm-cloud: Milton Berle
+
+"If opportunity doesn't knock, create a door"
+
 -- ds.markdown:
 
-The saying "small initiatives can bring significant career changes" rings true for my own journey. Rather than taking the 
-traditional approach of applying for established and big companies, I was looking for a job that would offer me more than 
-just a paycheck. I wanted to build a fulfilling career that would provide opportunities for growth and learning. 
-In this post, I will share my story of starting from scratch and how seeking out unique opportunities led me to an exciting 
-career path.
+This quote acknowledges that everyone, regardless of gender, has the ability and agency to create their own opportunities. It encourages taking action and being proactive in achieving one's goals and aspirations.
 
--- quote.stormcloud: Steve Jobs
+I was looking up for a job that would offer me more than just a paycheck. I wanted to build a fulfilling career that would provide opportunities for growth and learning. 
 
-"Never settle for average."
+In this post, I will share my story of starting from scratch and how seeking out unique opportunities led me to an exciting career path.
 
--- ds.h1: About me
 
-My name is Ajit Garg, and I currently work as a DevRel Intern at FifthTry Pvt. Ltd, which I joined in the final week of 
-December 2022.
+-- ds.h1: Looked towards Startups
 
-Prior to this role, I had no experience working on projects or in the DevRel role. I completed my Bachelor's degree in 
-Computer Science in 2015 and secured a campus placement at Accenture Solutions Pvt Ltd as a Software Test Engineer. 
-However, two years later, I decided to pursue a career in Civil Services exams, but things didn't go as planned, and 
-I had to start from scratch again. 
-This setback only strengthened my determination to seek out new learning opportunities and explore exciting career options. 
-This time I sought to join a startup to be a part of an innovative journey.
-
--- ds.h1: Why a startup
-
-Based on my past experience, I was not particularly fond of working for an MNC. While there are benefits to working for an MNC 
-such as job security, there is often limited learning opportunities and little input in project discussions and slow career 
-progression. I don't discount the millions of people who strive for such opportunities as it can provide valuable experience 
-in the short term. I had a great experience with three projects in my short career of around 2 years working in an MNC.
-
-However, I believe that in the long run, the learning curve in such positions can become stagnant. I would merely be one among 
-many, surviving on the fortunes and skills gained from the limited range of projects I was fortunate enough to work on. 
-As a result, I sought a fresh and exciting career path with the potential for growth and development.
+Based on my first stint in IT sector, I sought a fresh and exciting career path with the potential for growth and development along with flexible work environment and 
 
 -- ds.image:
 src: $assets.files.images.initiative.jpg
@@ -74,7 +61,16 @@ He was impressed with the video and I suggested that the company could benefit f
 learn the language. He was receptive to my suggestion and offered me the role of DevRel to help create the course and promote 
 the language to a wider audience. 
 
-As an intern, I am still learning and growing in my role, but I am passionate about the 
-work I am doing and excited to be part of such an innovative company.
+
+
+My name is Ajit Garg, and I currently work as a DevRel Intern at FifthTry.
+
+As an intern, I am still learning and growing in my role, but I am passionate about the work I am doing and excited to be part of such an innovative company.
+
+
+-- quote.matte: Confucious
+
+"Our greatest glory is not in never failing, but in rising every time we fail"
+
 
 -- end: my-ds.page
