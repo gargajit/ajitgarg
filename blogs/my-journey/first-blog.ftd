@@ -4,10 +4,7 @@
 src: $assets.files.images.get-that-job.jpg
 
 
--- ds.h1: Overview
-
-I decided to pursue a career in Civil Services exams leaving a job, but things didn't go as planned, and I had to start from scratch again.
-This setback only strengthened my determination to seek out new learning opportunities and explore other exciting career options. 
+I decided to pursue a career in Civil Services exams after leaving a job, but things didn't go as planned, and I had to start from scratch again. This setback only strengthened my determination to seek out new learning opportunities and explore other exciting career options. 
 
 -- quote.storm-cloud: Milton Berle
 
@@ -17,53 +14,41 @@ This setback only strengthened my determination to seek out new learning opportu
 
 This quote acknowledges that everyone, regardless of gender, has the ability and agency to create their own opportunities. It encourages taking action and being proactive in achieving one's goals and aspirations.
 
-I was looking up for a job that would offer me more than just a paycheck. I wanted to build a fulfilling career that would provide opportunities for growth and learning. 
+I was looking up for a job that would offer me more than just a paycheck. I wanted to build a fulfilling career that would provide opportunities for growth and learning.
 
 In this post, I will share my story of starting from scratch and how seeking out unique opportunities led me to an exciting career path.
 
 
--- ds.h1: Looked towards Startups
+-- ds.h1: Startups
 
-Based on my first stint in IT sector, I sought a fresh and exciting career path with the potential for growth and development along with flexible work environment and 
+Based on my first stint in IT sector, I sought a fresh and exciting career path with the potential for growth and development along with flexible work environment and being a part of innovations.
 
--- ds.image:
-src: $assets.files.images.initiative.jpg
+I always fancied about startups and I wanted to turn this situation into an opportunity to be an important part of the startup growth.
 
--- ds.h1: Joining FifthTry
+-- ds.h1: FifthTry
 
-From the very beginning, I knew I wanted to work for a startup that could provide me with both a deep and broad learning 
-experience on projects, while also allowing me to offer my suggestions and participate in open discussions. My search 
-for startups initially led me to explore opportunities in cities like Bangalore, Hyderabad, and Chennai.
+My search for startups initially led me to explore opportunities in cities like Bangalore, Hyderabad, and Chennai.
 
-During my search, I came across `FifthTry`, and their product immediately caught my attention. I was curious about the 
-company as a whole, and what impressed me most was their commitment to continuously improving their product. While their 
-documentation may have been rough around the edges, I was impressed that they had the confidence to make it publicly 
-available using their own product.
+During my search, I came across `FifthTry`, and their product immediately caught my attention. I was curious about the company as a whole, and what impressed me most was their commitment to continuously improving their product. While their documentation may have been rough around the edges, I was impressed that they had the confidence to make it publicly available using their own product.
 
-What really excited me about FifthTry was their team's ambitious goal of developing a new front-end programming language, FTD, 
-for the next generation of programmers. I knew this was an opportunity I couldn't pass up. And so, in the last week of 
-December 2022, I joined FifthTry as a DevRel Intern. Although I had no prior experience in this specific role, I was always 
-fascinated and was eager to jump in and begin contributing to the team's mission. 
-One statement that particularly grabbed my attention in the documentation was:
+What really excited me about `FifthTry` was their team's ambitious goal of developing a new front-end programming language, FTD, for the next generation of programmers. I knew this was an opportunity I couldn't pass up. And so, in the last week of December 2022, I joined `FifthTry` as a DevRel Intern. Although I had no prior experience in this specific role, I was always fascinated and was eager to jump in and begin contributing to the team's mission. One particular line in the documentation grabbed my attention:
 
 -- quote.marengo: FifthTry
 
 Our language is specifically designed for human beings, not just programmers.
 
--- ds.markdown:
+-- ds.image:
+src: $assets.files.images.initiative.jpg
 
-After exploring the documentation on FTD, I found that there were no structured learning courses available to help me 
-learn the language beyond the written documentation.
+-- ds.h1: My initiative
 
-I took the initiative and used the available resources to create a "Hello World" program. 
-I recorded myself doing this and reached out to the CEO of FifthTry to share my progress. 
-He was impressed with the video and I suggested that the company could benefit from having a video course to help others 
-learn the language. He was receptive to my suggestion and offered me the role of DevRel to help create the course and promote 
-the language to a wider audience. 
+After exploring the documentation on `FTD`, I found that there were no structured learning courses available to help me learn the language beyond the written documentation.
+
+I took the initiative and used the available resources to create a `Hello World` program. I recorded myself doing this and reached out to `AmitU`, the CEO of `FifthTry` to share my progress. He was impressed with the video and I suggested that the company could benefit from having a video course to help others learn the language. He was receptive to my suggestion and offered me the role of DevRel to help create the course and promote the language to a wider audience. 
 
 
 
-My name is Ajit Garg, and I currently work as a DevRel Intern at FifthTry.
+My name is `Ajit Garg`, and I am currently work as a `DevRel - Intern` at `FifthTry`.
 
 As an intern, I am still learning and growing in my role, but I am passionate about the work I am doing and excited to be part of such an innovative company.
 
