@@ -2,6 +2,9 @@
 
 I decided to pursue a career in Civil Services exams after leaving a job, but things didn't go as planned, and I had to start from scratch again. This setback only strengthened my determination to seek out new learning opportunities and explore other exciting career options. 
 
+
+-- ds.h1: What's next
+
 -- quote.storm-cloud: Milton Berle
 
 "If opportunity doesn't knock, create a door"
@@ -27,16 +30,19 @@ My search for startups initially led me to explore opportunities in cities like 
 
 During my search, I came across `FifthTry`, and their product immediately caught my attention. I was curious about the company as a whole, and what impressed me most was their commitment to continuously improving their product. While their documentation may have been rough around the edges, I was impressed that they had the confidence to make it publicly available using their own product.
 
-What really excited me about `FifthTry` was their team's ambitious goal of developing a new front-end programming language, FTD, for the next generation of programmers. I knew this was an opportunity I couldn't pass up. And so, in the last week of December 2022, I joined `FifthTry` as a DevRel Intern. Although I had no prior experience in this specific role, I was always fascinated and was eager to jump in and begin contributing to the team's mission. One particular line in the documentation grabbed my attention:
+What really excited me about `FifthTry` was their team's ambitious goal of developing a new front-end programming language, `FTD`, a language for everyone. In their own words:
 
 -- quote.marengo: FifthTry
 
 Our language is specifically designed for human beings, not just programmers.
 
+
 -- ds.image:
 src: $assets.files.images.initiative.jpg
 
 -- ds.h1: My initiative
+
+I knew this was an opportunity I couldn't pass up. Although I had no prior experience in this specific role, I was always fascinated and was eager to jump in and begin contributing to the team's mission.
 
 After exploring the documentation on `FTD`, I found that there were no structured learning courses available to help me learn the language beyond the written documentation.
 
