@@ -4,7 +4,7 @@
 download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site
--- fastn.dependency: fifthtry.github.io/winter-cs
+-- fastn.dependency: fifthtry.github.io/sailing-shark-cs 
 -- fastn.dependency: fifthtry.github.io/fastn-typography
 -- fastn.dependency: fifthtry.github.io/bling
 
@@ -13,7 +13,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.auto-import: ajitgarg.com/config/my-ds as my-ds
 -- fastn.auto-import: fastn
 -- fastn.auto-import: ajitgarg.com/assets
--- fastn.auto-import: fifthtry.github.io/bling/quote
+-- fastn.auto-import: fifthtry.github.io/bling/quote as quote
 
 
 -- fastn.sitemap:
