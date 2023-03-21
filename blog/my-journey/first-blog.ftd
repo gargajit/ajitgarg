@@ -9,7 +9,8 @@ I left my corporate job to pursue my passion for creating something of my own.
 
 -- my-ds.page:  What happened when I failed to clear Civil Services exams
 
-In 2018, I took a decision to leave my corporate job at Accenture to pursue a career in Civil Services. I thought I can contribute to nation-building but unfortunately, I could not make it through the entrance exams. After that, I had to decide to go back to a corporate job or start something on my own.
+
+After around 2 years of my corporate job at Accenture, I left it and came back home in 2018 to pursue a career in Civil Services. I thought I can contribute to nation-building but unfortunately, I could not make it through the three entrance exams I appeared in. Being out of job and experience has put me in a career dilemma in 2022 of what's next?
 
 
 -- ds.h1: What's next
@@ -20,7 +21,11 @@ In 2018, I took a decision to leave my corporate job at Accenture to pursue a ca
 
 -- ds.markdown:
 
-This quote acknowledges that everyone, has the ability and agency to create their own opportunities. It encourages taking action and being proactive in achieving one's goals and aspirations. In this post, I will share my story of how taking initiatives led me to an exciting opportunity.
+This quote acknowledges that everyone, has the ability and agency to create their own opportunities. It encourages taking action and being proactive in achieving one's goals and aspirations. 
+
+ 
+I had to decide to go back to a corporate job or start something on my own.
+In this post, I will share my story of how taking initiatives led me to an exciting opportunity.
 
 
 -- ds.h1: Startups
@@ -28,13 +33,13 @@ This quote acknowledges that everyone, has the ability and agency to create thei
 I am an admirer of start-ups, I frequently read about them - I like them because I think I can make a much bigger impact in what the company is doing, and can play an important role in building something from the ground up and hopefully get much larger rewards.
 
 
--- ds.image: [Image Credit: UnboxingStartups](https://unboxingstartups.com/startup-or-established-company-which-is-best-for-you/)
+-- ds.image: Image Credit: [UnboxingStartups](https://unboxingstartups.com/startup-or-established-company-which-is-best-for-you/)
 src: $assets.files.images.pros-of-working-for-a-startup.jpg
 
 
 -- ds.markdown:
 
-However, my lack of experience is a major obstacle. Also, I am not yet in a position to launch my own start-up. So, I started thinking of doing the next best thing: work for a startup I know and respect.
+However, my lack of experience is a major obstacle. Also, I am not yet in a position to launch my own start-up. So, I started thinking of doing the next best thing: work for a startup.
 
 
 -- ds.h1: FifthTry
@@ -45,7 +50,7 @@ have been rough around the edges, I was impressed that they had the confidence
 to make it publicly available using their own product.
 
 
-Team at`FifthTry` have created a new open-source, front-end programming language called `FTD`, a language for everyone. 
+Team at `FifthTry` have created a new open-source, front-end programming language called `FTD`, a language for everyone. 
 
 -- quote.marengo: FifthTry
 
@@ -85,7 +90,7 @@ I knew this was an opportunity I couldn't pass up. After exploring the documenta
 -- ds.image:
 src: $assets.files.images.initiative.png
 
-I took the initiative and used the available resources to create a `Hello World` program. I recorded myself doing this and reached out to `AmitU`, the CEO of `FifthTry` to share my progress. He was impressed with the video and I suggested that the company could benefit from having a video course to help others learn the language.
+I took the **initiative** and used the available resources to create a `Hello World` program. I recorded myself doing this and reached out to `AmitU`, the CEO of `FifthTry` to share my progress. He was impressed with the video and I suggested that the company could benefit from having a video course to help others learn the language.
 
 I am currently doing my internship as a **DevRel** at `FifthTry`.
 I am passionate about the work I am doing and excited to be part of such an innovative company and to help create the course and promote the language to a wider audience. 
