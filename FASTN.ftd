@@ -34,6 +34,9 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 ## DevRel: /blog/devrel/
   skip: true
 
+- Dollar in `FTD`: /dollar-in-ftd/
+  document: blog/devrel/dollar-sign.ftd
+
 ## Miscellaneous: /word-wrap-in-codespace/
   document: blog/misc/fixed-char-word-wrap.ftd
   skip: true
