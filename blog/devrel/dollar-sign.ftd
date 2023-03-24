@@ -7,7 +7,7 @@ I had few questions and wanted some conceptual clarity as to why `$` when placed
 -- ds.code: `$` with variable for mutablity/before colon
 lang: ftd
 
-\boolean $open: true
+boolean $open: true
 
 
 -- ds.code: `$` for referencing/after colon
@@ -18,7 +18,9 @@ lang: ftd
 -- ds.code: `$` for special (for time being) events
 lang: ftd
 
-\$on-click$: $toggle( $value = $box.open)
+\$on-click$: $toggle( $value = $box.open )
 
+
+Let's discuss all the three instances one by one.
 
 -- end: my-ds.page

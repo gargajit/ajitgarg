@@ -50,7 +50,7 @@ have been rough around the edges, I was impressed that they had the confidence
 to make it publicly available using their own product.
 
 
-Team at `FifthTry` have created a new open-source, front-end programming language called `FTD`, a language for everyone. 
+Team at `FifthTry` has created a new open-source, front-end programming language called `FTD`, a language for everyone. 
 
 -- quote.marengo: FifthTry
 
@@ -70,6 +70,8 @@ lang: ftd
 
 \-- ftd.text: Hello World!
 
+/-- ds.image:
+src: $assets.files.images.one-line.png
 
 -- ds.h3: Output
 
