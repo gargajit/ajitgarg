@@ -25,4 +25,19 @@ lang: ftd
 
 Let's discuss all the three instances one by one and understand their purpose.
 
+-- ds.h1: `$` with variable
+
+Let's first briefly understand about `variables`. Variables are the name you give to computer memory locations which are used to store values in a computer program.
+
+-- ds.code: For example
+lang: ftd
+
+\-- string name: ajit
+
+
+Here the variable is `name` which is of `string` type and the value I have given to this `name` variable is `ajit`.
+
+-- ds.markdown:
+
+
 -- end: my-ds.page
