@@ -22,14 +22,13 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 # Blog: /job-at-fifthtry/
   document: blog/my-journey/first-blog.ftd
-  skip: true
 
 ## My Journey: /job-at-fifthtry/
   document: blog/my-journey/first-blog.ftd
 
 - How did I got the job at FifthTry: /first-blog/
   document: blog/my-journey/first-blog.ftd
-- My journey to become a DevRel: /blogs/my-journey/second-blog/
+- My journey to become a DevRel: /blog/my-journey/second-blog/
   skip: true
 
 ## DevRel: /blog/devrel/
