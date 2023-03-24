@@ -22,6 +22,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 # Blog: /job-at-fifthtry/
   document: blog/my-journey/first-blog.ftd
+  skip: true
 
 ## My Journey: /job-at-fifthtry/
   document: blog/my-journey/first-blog.ftd
