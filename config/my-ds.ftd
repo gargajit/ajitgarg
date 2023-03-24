@@ -1,0 +1,28 @@
+-- import: fifthtry.github.io/doc-site as ds
+-- import: fifthtry.github.io/sailing-shark-cs as sailing-shark-cs
+-- import: fifthtry.github.io/fastn-typography as typo
+
+
+
+
+
+-- component page:
+children wrapper:
+optional caption title:
+optional body body:
+boolean sidebar: false
+optional boolean widthfill: false
+
+-- ds.page:
+site-logo: $assets.files.images.logo.svg
+title: $page.title
+body: $page.body
+wrapper: $page.wrapper
+colors: $sailing-shark-cs.main
+$sidebar: *$page.sidebar
+$widthfill: *$page.widthfill
+;; site-name: ajit garg
+types: $typo.types
+
+
+-- end: page

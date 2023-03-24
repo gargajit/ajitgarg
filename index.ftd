@@ -1,0 +1,26 @@
+-- ds.author-meta ajit: Ajit Garg
+profile:  DevRel
+image: $assets.files.images.ajit.png
+bio-url: /
+company: FifthTry.Pvt.Ltd
+
+I left the corporate job to pursue the passion for creating something of my own.
+
+-- my-ds.page: Ajit's Story
+
+After graduating from college, I jumped right into my career and quickly found myself in a familiar routine: clocking in and out, working on a small piece of a larger project, and striving for yearly increments and promotions. While I saw steady growth in my career, I felt unfulfilled and like just another resource among many others in the industry.
+
+That's when I realized that I wanted something more. I wanted to create something of my own, something that truly fulfilled me and allowed me to make a difference in the world. I knew that the traditional job market wasn't going to provide me with that opportunity, so I decided to take a leap and explore other options.
+
+
+I appeared for Civil Services exams, but could not clear it but I was determined to do things differently.
+Through my research, I discovered the Referral Market, which is a space where people are willing to invest in individuals with a proven track record of creating new and innovative ideas. This was exactly what I was looking for - a chance to showcase my skills and ideas on a larger scale, and to be recognized for my unique contributions rather than just a small piece of a larger project.
+
+While it can be daunting to step away from the security and stability of the traditional job market, I am excited to see where this new journey will take me. I am confident that by taking ownership of my work and pursuing my passions, I can make a real impact on the world around me.
+
+
+
+-- ds.author-bio:
+author: $ajit
+
+-- end: my-ds.page
