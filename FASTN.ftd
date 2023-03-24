@@ -4,11 +4,43 @@
 download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site
--- fastn.dependency: fifthtry.github.io/winter-cs
+-- fastn.dependency: fifthtry.github.io/sailing-shark-cs 
 -- fastn.dependency: fifthtry.github.io/fastn-typography
+-- fastn.dependency: fifthtry.github.io/bling
 
 
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
 -- fastn.auto-import: ajitgarg.com/config/my-ds as my-ds
 -- fastn.auto-import: fastn
 -- fastn.auto-import: ajitgarg.com/assets
+-- fastn.auto-import: fifthtry.github.io/bling/quote as quote
+
+
+-- fastn.sitemap:
+
+# Home: /
+
+# Blog: /job-at-fifthtry/
+  document: blog/my-journey/first-blog.ftd
+
+## My Journey: /job-at-fifthtry/
+  document: blog/my-journey/first-blog.ftd
+
+- How did I got the job at FifthTry: /first-blog/
+  document: blog/my-journey/first-blog.ftd
+- My journey to become a DevRel: /blog/my-journey/second-blog/
+  skip: true
+
+## DevRel: /blog/devrel/
+  skip: true
+
+;; - Dollar in `FTD`: /dollar-in-ftd/
+;;  document: blog/devrel/dollar-sign.ftd
+
+## Miscellaneous: /word-wrap-in-codespace/
+  document: blog/misc/fixed-char-word-wrap.ftd
+  skip: true
+
+- How to add word-wrap in codespace: /word-wrap-in-codespace/
+  document: blog/misc/fixed-char-word-wrap.ftd
+
