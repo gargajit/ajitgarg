@@ -1,0 +1,28 @@
+-- my-ds.page: Dollar in `ftd`
+
+While I was creating the [`Expander Crash Course`](https://fastn.io/expander), I had three instances of `$` sign used which meant three different things in `ftd`.
+
+
+Though it makes it really easy to have one symbol that can be used for three different cases but I had my doubts while creating the videos as to what should I call when using it in the following instances:
+
+-- ds.code: `$` with variable
+lang: ftd
+
+boolean $open: true
+
+
+-- ds.code: `$` for referencing
+lang: ftd
+
+\-- ftd.text: $box.title
+
+-- ds.code: `$` for special (for time being) events
+lang: ftd
+
+\$on-click$: 
+
+-- ds.markdown:
+
+Let's discuss all the three instances one by one and understand their purpose.
+
+-- end: my-ds.page
