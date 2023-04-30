@@ -1,0 +1,118 @@
+-- import: fifthtry.github.io/admonitions as cbox
+
+-- my-ds.page: Dollar in `ftd`
+
+While I was creating the [`Expander Crash Course`](https://fastn.io/expander), I had three instances of `$` sign used which meant three different things in `ftd`.
+
+
+
+Though it makes it really easy to have one symbol that can be used for three different cases but I had my doubts while creating the videos as to what should I call when using it in the following instances:
+
+
+-- ds.code: `$` for referencing
+lang: ftd
+
+\-- ftd.text: $name
+
+-- ds.code: `$` with variable
+lang: ftd
+
+\-- string $name: Ajit
+
+-- ds.code: `$` for special purpose like events
+lang: ftd
+
+\$on-click$: 
+
+-- ds.markdown:
+
+Before we discuss the three instances one by one, let's first briefly understand about [`variables`](https://fastn.io/ftd/variables/).
+
+-- holder.triangular: 
+
+Variables are the name you give to computer memory locations which are used to store values in a computer program.
+
+-- ds.code: For example
+lang: ftd
+
+\-- string name: Ajit
+
+-- ds.markdown:
+
+Here the variable is `name` which is of `string` type and the value assigned to this `name` variable is `Ajit`. So, to access memory location where `Ajit` is stored can be done using `name`.
+
+-- end: holder.triangular
+
+-- ds.image: 
+src: $assets.files.images.devrel.dollar-sign.immutable-var.png
+
+
+-- ds.h1: `$` for referencing
+
+A `reference` is like a pointer to an address we can follow to access the data stored at that address.
+
+
+-- ds.code: 
+lang: ftd
+
+\-- string name: Ajit
+
+\-- ftd.text: $name ;; <hl>
+
+-- ds.markdown:
+
+`ftd.text` is a [kernel component](https://fastn.io/ftd/kernel). It accepts the string type so when we write `$name`, we pass the *reference* of variable `name`. 
+
+`ftd` points to the address location for the variable `name` and returns the value, `Ajit`,  to the `ftd.text`. 
+
+
+-- ds.image:
+src: $assets.files.images.devrel.dollar-sign.referencing.png
+
+-- ds.markdown: 
+
+Output:
+
+-- ds.image:
+src: $assets.files.images.devrel.dollar-sign.output-of-reference.png
+
+
+
+-- ds.h1: `$` with variable
+
+By default, variables are `immutable`, which means that the variable can have only one value to it, that cannot be changed. However, if you need to make a variable editable, `ftd` gives you the option to make your variable [`mutable`](https://fastn.io/ftd/variables/#mutable).
+
+When we prefix the variable name with `$` we make it mutable i.e. the value of a mutable variable can be changed. 
+
+-- ds.code: 
+lang: ftd
+
+\-- string $name: Ajit
+
+-- ds.markdown:
+
+Now let's see with an example how we are going to edit the `mutable variable`.
+
+
+
+-- ds.code: 
+lang: ftd
+
+\-- string $name: Ajit ;; <hl>
+
+\-- ftd.text: $name
+
+;;event
+
+\-- ftd.text: Click here
+\$on-click$: $ftd.set-string( $temp = $name, v = Rithik)
+
+
+-- ds.markdown:
+
+Output:
+
+-- ds.image:
+src: $assets.files.images.devrel.dollar-sign.output-of-mut-var.gif
+
+-- end: my-ds.page
