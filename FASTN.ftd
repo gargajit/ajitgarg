@@ -7,6 +7,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.dependency: fifthtry.github.io/sailing-shark-cs 
 -- fastn.dependency: fifthtry.github.io/fastn-typography
 -- fastn.dependency: fifthtry.github.io/bling
+-- fastn.dependency: fifthtry.github.io/admonitions
 
 
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
@@ -14,6 +15,7 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 -- fastn.auto-import: fastn
 -- fastn.auto-import: ajitgarg.com/assets
 -- fastn.auto-import: fifthtry.github.io/bling/quote as quote
+-- fastn.auto-import: fifthtry.github.io/bling/holder as holder
 
 
 -- fastn.sitemap:
@@ -34,8 +36,8 @@ download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 ## DevRel: /blog/devrel/
   skip: true
 
-;; - Dollar in `FTD`: /dollar-in-ftd/
-;;  document: blog/devrel/dollar-sign.ftd
+- Dollar in `FTD`: /dollar-in-ftd/
+  document: blog/devrel/dollar-sign.ftd
 
 ## Miscellaneous: /word-wrap-in-codespace/
   document: blog/misc/fixed-char-word-wrap.ftd
