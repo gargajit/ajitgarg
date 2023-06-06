@@ -1,7 +1,6 @@
 -- import: fastn
 
 -- fastn.package: ajitgarg.com
-download-base-url: https://raw.githubusercontent.com/gargajit/ajitgarg/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/sailing-shark-cs 
