@@ -1,0 +1,48 @@
+-- component hero:
+
+-- as.section-row:
+
+-- as.row:
+spacing: $as.spaces.vertical-gap.space-between
+
+-- ftd.text: Hey There! I'm Ajit
+color: $as.colors.text-strong
+role: $as.types.heading-hero
+width.fixed.percent: 30
+align-self: start
+z-index: 2
+
+-- ftd.text: Love Learning new things
+color: $as.colors.text-strong
+role: $as.types.heading-small
+width.fixed.percent: 20
+align-self: start
+z-index: 2
+
+-- end: as.row
+
+
+-- as.row:
+
+/-- ftd.text: I Love What I Do
+role: $as.types.heading-small
+color: $as.colors.cta-primary.text
+background.solid: $as.colors.cta-primary.base
+padding-horizontal.px: $as.spaces.inset-square.small.horizontal
+padding-vertical.px: $as.spaces.inset-square.small.vertical
+
+-- end: as.row
+
+
+
+-- ftd.image: $assets.files.new.assets.ajit-with-bg.png
+z-index: 1
+anchor: parent
+left.percent: 25
+top.px: 0
+
+
+
+-- end: as.section-row
+
+-- end: hero

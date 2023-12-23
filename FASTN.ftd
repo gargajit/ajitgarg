@@ -7,8 +7,11 @@
 -- fastn.dependency: fifthtry.github.io/fastn-typography
 -- fastn.dependency: fifthtry.github.io/bling
 -- fastn.dependency: fifthtry.github.io/admonitions
+-- fastn.dependency: fastn-community.github.io/header
+-- fastn.dependency: fastn-community.github.io/design-system
 
 
+-- fastn.auto-import: fastn-community.github.io/design-system as as
 -- fastn.auto-import: fifthtry.github.io/doc-site as ds
 -- fastn.auto-import: ajitgarg.com/config/my-ds as my-ds
 -- fastn.auto-import: fastn

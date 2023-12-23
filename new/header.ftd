@@ -1,0 +1,56 @@
+-- component header:
+
+-- as.section-row:
+spacing: $as.spaces.vertical-gap.space-between
+
+-- ftd.image:
+src: $assets.files.new.assets.logo.svg
+
+-- display-sitemap:
+
+-- display-phone:
+
+
+-- end: as.section-row
+
+
+
+
+
+-- end: header
+
+
+
+
+
+
+
+-- component display-phone:
+
+-- as.inline-row:
+
+-- as.heading-tiny: +91 9999999999
+
+-- as.circle-button:
+icon: $assets.files.new.assets.phone-call.svg
+
+-- end: as.inline-row
+
+
+-- end: display-phone
+
+
+
+-- component display-sitemap:
+
+-- as.inline-row:
+
+-- as.header-link: Home
+link: /
+
+-- as.header-link: Blog
+link: /job-at-fifthtry/
+
+-- end: as.inline-row
+
+-- end: display-sitemap
